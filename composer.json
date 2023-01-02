@@ -1,5 +1,5 @@
 {
-    "name": "Didac-Edo/didac-composer",
+    "name": "didac-edo/didac-composer",
     "description": "My first packagist package",
     "type": "package",
     "require": {
@@ -16,7 +16,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Didac-Edo\\DidacComposer\\": "src/"
+            "didac-edo\\DidacComposer\\": "src/"
         }
     }
 }
